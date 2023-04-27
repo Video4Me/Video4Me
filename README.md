@@ -18,7 +18,7 @@ Este produto é direcionado ao público brasileiro inicialmente, entre a faixa d
 - Agilista: [Leticia Oliveira](https://www.linkedin.com/in/oliveira-leticia/) 
 - Head de Produtos: [Vanêssa Santana](https://www.linkedin.com/in/vanessa-patricia/)
 - Tech Lead: [Alec Lima](https://www.linkedin.com/in/aleclima-/)
-- Mobile: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) (https://www.linkedin.com/in/leonardo-martins-developer/)
+- Mobile: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) 
 - Backend: [Higor Feijó](https://www.linkedin.com/in/higorfeijo/)
 - UX/ UI: [Sthefany Beltrão](https://www.linkedin.com/in/sthefany-beltr%C3%A3o-5b4979162/)
 - QA: [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/)
