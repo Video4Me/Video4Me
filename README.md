@@ -15,7 +15,7 @@ Este produto é direcionado ao público brasileiro inicialmente, entre a faixa d
   <summary>EQUIPE</summary>
  
 - Product Manager: [Davi Kooji](https://www.linkedin.com/in/daviuezono/) | [Lidianne Liberal](https://www.linkedin.com/in/lidianne-liberal-89454b95/)  
-- Agilista: [Leticia Oliveira](https://www.linkedin.com/in/oliveira-leticia/) 
+- Agilista: [João Vitor Gumiero](https://www.linkedin.com/in/jo%C3%A3o-vitor-gumiero-57bb801b3/) | [Leticia Oliveira](https://www.linkedin.com/in/oliveira-leticia/) 
 - Head de Produtos: [Vanêssa Santana](https://www.linkedin.com/in/vanessa-patricia/)
 - Tech Lead: [Alec Lima](https://www.linkedin.com/in/aleclima-/)
 - Mobile: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) 
