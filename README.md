@@ -14,13 +14,13 @@ Este produto é direcionado ao público brasileiro inicialmente, entre a faixa d
 <details>
   <summary>EQUIPE</summary>
  
-- Product Manager: [Davi Kooji](https://www.linkedin.com/in/daviuezono/) | [Lidianne Liberal](https://www.linkedin.com/in/lidianne-liberal-89454b95/)  
+- Product Manager: [Davi Kooji](https://www.linkedin.com/in/daviuezono/) | [Lidianne Liberal](https://www.linkedin.com/in/lidianne-liberal-89454b95/) | [Thiago Pirolla](https://www.linkedin.com/in/thiago-pirolla-439086162/)
 - Agilista: [João Vitor Gumiero](https://www.linkedin.com/in/jo%C3%A3o-vitor-gumiero-57bb801b3/) | [Leticia Oliveira](https://www.linkedin.com/in/oliveira-leticia/) 
 - Head de Produtos: [Vanêssa Santana](https://www.linkedin.com/in/vanessa-patricia/)
 - Tech Lead: [Alec Lima](https://www.linkedin.com/in/aleclima-/)
-- Mobile: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) 
-- Backend: [Higor Feijó](https://www.linkedin.com/in/higorfeijo/)
-- UX/ UI: [Sthefany Beltrão](https://www.linkedin.com/in/sthefany-beltr%C3%A3o-5b4979162/)
+- Mobile: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) | [Adriano Alves](https://www.linkedin.com/in/adriano-alves-4294b2168/)
+- Backend: [Higor Feijó](https://www.linkedin.com/in/higorfeijo/) | [Lucas Cardoso](https://www.linkedin.com/in/lcscardoso/) | [Victor Lima](https://www.linkedin.com/in/vitor-lima/)
+- UX/ UI: [Sthefany Beltrão](https://www.linkedin.com/in/sthefany-beltr%C3%A3o-5b4979162/) | [Matheus Augusto](https://www.linkedin.com/in/matheus-augusto)
 - QA: [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/)
 
 </details>
