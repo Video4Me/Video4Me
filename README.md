@@ -21,6 +21,6 @@ Este produto é direcionado ao público brasileiro inicialmente, entre a faixa d
 - Mobile: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) | [Adriano Alves](https://www.linkedin.com/in/adriano-alves-4294b2168/)
 - Backend: [Higor Feijó](https://www.linkedin.com/in/higorfeijo/) | [Lucas Cardoso](https://www.linkedin.com/in/lcscardoso/) | [Victor Lima](https://www.linkedin.com/in/vitor-lima/)
 - UX/ UI: [Sthefany Beltrão](https://www.linkedin.com/in/sthefany-beltr%C3%A3o-5b4979162/) | [Matheus Augusto](https://www.linkedin.com/in/matheus-augusto)
-- QA: [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/)
+- QA: [Michelle Barreto](https://www.linkedin.com/in/MihBarreto/)
 
 </details>
